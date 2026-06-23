@@ -62,28 +62,6 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nickangapov&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickangapov&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- Deepening React expertise
-- Mastering TypeScript
-- Building production-ready applications
-- Contributing to Open Source
-- Growing as a Frontend Engineer
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
