@@ -106,15 +106,21 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://t.me/NikolayAng69">
-<img src="https://skillicons.dev/icons?i=telegram" height="40" />
+<a href="https://t.me/NikolayAng69" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@NikolayAng69-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<br/>
+<sub>Telegram: @NikolayAng69</sub>
 
-<a href="https://www.linkedin.com/in/nick-angapov/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<br><br>
+
+<a href="https://www.linkedin.com/in/nick-angapov/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nick_Angapov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br/>
+<sub>LinkedIn: Nick Angapov</sub>
 
 </p>
 
