@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 console.log('Hi, I'm Nikolai Angapov')
+# 👋 console.log("Hi, I'm Nikolai Angapov")
 
 ### Frontend Developer
 
