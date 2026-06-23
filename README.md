@@ -74,26 +74,6 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nickangapov&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickangapov&hide_border=true" />
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - Deepening React expertise
