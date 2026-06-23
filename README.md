@@ -44,7 +44,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ### Other
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,figma" />
 </p>
 
 ---
@@ -107,22 +107,16 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ## 📫 Connect With Me
 
 <p align="left">
+  <a href="https://t.me/NikolayAng69" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" height="32" alt="Telegram" />
+  </a>
 
-<a href="https://t.me/NikolayAng69" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@NikolayAng69-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<br/>
-<sub>Telegram: @NikolayAng69</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/nick-angapov/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nick_Angapov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/>
-<sub>LinkedIn: Nick Angapov</sub>
-
+  <a href="https://www.linkedin.com/in/nick-angapov/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
 </p>
+
+<code>💼 Open to Frontend opportunities and freelance projects</code>
 
 ---
 
