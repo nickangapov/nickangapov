@@ -106,14 +106,14 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://t.me/NikolayAng69" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-NikolayAng69-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/NikolayAng69">
+<img src="https://skillicons.dev/icons?i=telegram" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/nick-angapov/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Nick_Angapov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nick-angapov/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 </p>
@@ -121,6 +121,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ---
 
 <div align="center">
+💼 Open to Frontend opportunities and freelance projects
 
 ### ⚡ Turning ideas into interactive web experiences
 
