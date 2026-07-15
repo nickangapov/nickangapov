@@ -72,7 +72,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:nickangapov@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="49" alt="Gmail">
   </a>
 </p>
 
