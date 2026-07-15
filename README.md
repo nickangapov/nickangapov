@@ -32,9 +32,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ### Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Tools
