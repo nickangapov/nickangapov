@@ -32,13 +32,13 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=ts,react" />
 </p>
 
 ### Other
