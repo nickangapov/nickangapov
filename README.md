@@ -25,27 +25,24 @@ I enjoy transforming ideas into interactive digital products and continuously im
 - 🚀 Performance optimization
 - 🔍 Writing maintainable code
 
----
+<details>
+<summary>🛠 Tech Stack</summary>
 
-## 🛠 Tech Stack
+<br>
 
-### Languages
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+HTML, CSS, JavaScript, TypeScript
 
-### Tools
+**Frameworks & Libraries**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react" />
-</p>
+React
 
-### Other
+**Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,figma" />
-</p>
+Git, GitHub, VS Code, Vite, NPM, Figma
+
+</details>
 
 ---
 
