@@ -62,7 +62,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 <p align="left">
   <a href="https://t.me/NikolayAng69">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="49" alt="Telegram">
+    Telegram
   </a>
   <a href="https://www.linkedin.com/in/nick-angapov/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
