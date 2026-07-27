@@ -63,12 +63,12 @@ I enjoy transforming ideas into interactive digital products and continuously im
 <p align="left">
   <a href="https://t.me/NikolayAng69">
     Telegram
-  </a>
+  </a><br />
   <a href="https://www.linkedin.com/in/nick-angapov/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+    Linkedin
+  </a><br />
   <a href="mailto:nickangapov@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="49" alt="Gmail">
+    Email
   </a>
 </p>
 
