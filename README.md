@@ -48,14 +48,13 @@ I enjoy transforming ideas into interactive digital products and continuously im
 
 ## 💻 What I Do
 
-- Modern React Applications
+- React Applications
 - Single Page Applications (SPA)
 - Responsive Websites
 - Landing Pages
 - REST API Integration
 - UI Component Development
-- Frontend Architecture
-- Performance Optimization
+- Adaptive & Pixel-Perfect Layouts
 
 ---
 
