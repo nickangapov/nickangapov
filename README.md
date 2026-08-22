@@ -54,7 +54,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 - Landing Pages
 - REST API Integration
 - UI Component Development
-- Adaptive & Pixel-Perfect Layouts
+- Adaptive Layouts
 
 ---
 
