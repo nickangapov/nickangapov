@@ -28,7 +28,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ## 🧩 Skills & Technologies
 
 <p align="left">
-  <span>Languages</span><br />
+  <span style="font-family: Geologica, sans-serif">Languages</span><br />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
