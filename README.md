@@ -28,6 +28,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 ## 🧩 Skills & Technologies
 
 <p align="left">
+  <span>Languages</span>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -35,6 +36,7 @@ I enjoy transforming ideas into interactive digital products and continuously im
 </p>
 
 <p align="left">
+  <span>Libraries and frameworks</span>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/React_Router-000000.svg?style=for-the-badge&logo=reactrouter&logoColor=CA4245" />
 </p>
